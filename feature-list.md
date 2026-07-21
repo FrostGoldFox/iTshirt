@@ -5,3 +5,4 @@ p.95
 3. 장바구니 담기
 p.92 
 4. 디테일 페이지 보여주기
+5. Very Detail page realize
